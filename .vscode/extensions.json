@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "antfu.vite",
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "streetsidesoftware.code-spell-checker",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "johnpapa.vscode-peacock"
+  ]
+}
